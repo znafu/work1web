@@ -1,0 +1,24 @@
+.site-logo {
+    position: relative;
+    top: -20px;
+}
+
+.mainnav_left {
+    position: absolute;
+    right: 50%;
+    top: 0;
+    margin-right: 50px;
+    float: right;
+}
+
+.mainnav_right {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    margin-left: 50px;
+    float: left;
+}
+
+.logo_link img {
+    margin-top: 15px;
+}
